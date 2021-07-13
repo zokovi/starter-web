@@ -20,4 +20,4 @@ Fork and issue PR for review
 
 ## COPYRIGHT
 
-not copyrighted
+not copyrighted. Rights are not reserved
