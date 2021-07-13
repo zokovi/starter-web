@@ -8,6 +8,8 @@ example trying git
 
 ## Purpose
 
+Purpose is purpose
+
 ## Deployment
 
 Sample website with plenty of files for demos
