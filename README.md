@@ -12,6 +12,6 @@ Purpose is purpose
 
 ## Deployment
 
-Sample website with plenty of files for demos
+idk
 
 ## How to contribute
