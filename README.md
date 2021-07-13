@@ -16,6 +16,8 @@ Deploy on your local machine
 
 ## How to contribute
 
+Fork and issue PR for review
+
 ## COPYRIGHT
 
 not copyrighted
