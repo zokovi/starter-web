@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ibnu -- dev -- twitter
 
 # THANKS
 
