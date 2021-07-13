@@ -15,3 +15,7 @@ Purpose is purpose
 Deploy on your local machine
 
 ## How to contribute
+
+## COPYRIGHT
+
+not copyrighted
