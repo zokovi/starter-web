@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-example trying git
+example trying git, this repo is forked from somewhere else
 
 ## Purpose
 
@@ -12,6 +12,6 @@ Purpose is purpose
 
 ## Deployment
 
-idk
+Deploy on your local machine
 
 ## How to contribute
