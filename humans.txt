@@ -3,11 +3,12 @@
 
 # TEAM
 
-    ibnu -- dev -- twitter
+    human -- dev -- twitter
 
 # THANKS
 
     Thanks to god
+    Thanks to the guide
 
 # TECHNOLOGY COLOPHON
 
