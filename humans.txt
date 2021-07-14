@@ -4,6 +4,7 @@
 # TEAM
 
     human -- dev -- twitter
+    another human -- QA -- twitter
 
 # THANKS
 
